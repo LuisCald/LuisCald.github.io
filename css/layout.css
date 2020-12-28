@@ -32,7 +32,7 @@ hr { display: block;
     overflow: hidden; 
     border-style: inset; 
     border-width: 1px;
-    height: 100px;
+    height: 3px;
     background-color:black;
 }
 
