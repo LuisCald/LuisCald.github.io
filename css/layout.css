@@ -47,7 +47,7 @@ NAVIGATION BAR
     z-index: 1000;
     height: 4em;
     width: 100vw;
-    background-color: White;
+    background-color: HoneyDew;
     font-variant: small-caps;
 }
 
@@ -55,6 +55,7 @@ NAVIGATION BAR
     margin-top: 2em;
     height: 2em;
     margin-left: 2vw;
+    background-color: HoneyDew;
     right: 5vw;
 }
 
